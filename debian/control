@@ -1,0 +1,13 @@
+Source: uab-node-red
+Section: misc
+Priority: optional
+Maintainer: Jordi Román Mejias <Jordi.Roman@uab.cat>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+
+Package: uab-node-red
+Architecture: all
+Depends: ${misc:Depends}, nodejs, npm
+Description: Setup node-red over nodejs
+ This package setup node-red over nodejs. Is a 
+ dependency package with postinst scripts

@@ -1,3 +1,15 @@
+PAQUETE OBSOLETO, SUBSTITUIDO POR *node-red-snap*
+
+
+
+
+
+
+
+
+
+
+
 # Paquete DEB uab-node-red
 Paquete que instala node-red en ubuntu bionic
 

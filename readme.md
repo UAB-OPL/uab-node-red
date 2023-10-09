@@ -1,5 +1,8 @@
-PAQUETE OBSOLETO, SUBSTITUIDO POR *node-red-snap*
-
+#
+#
+# PAQUETE OBSOLETO, SUBSTITUIDO POR *node-red-snap*
+#
+#
 
 
 
